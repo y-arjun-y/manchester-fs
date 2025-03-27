@@ -1,2 +1,2 @@
 # manchester-fs
-Manchester FS Software Challenge
+My work as part of the Manchester Formula Student: AI Vision sub-team.
